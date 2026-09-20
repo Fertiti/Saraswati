@@ -211,7 +211,7 @@ body {
     display: none;
 }
 
-@media (max-width: 1024pxpx) {
+@media (max-width: 1024px) {
     .main-header { flex-direction: column; padding: 10px; }
     .content-card { flex-direction: column; align-items: center; }
     .card-image-col { width: 100%; flex: 0 0 auto; flex-direction: row; }
