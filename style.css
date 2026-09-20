@@ -14,7 +14,9 @@ body {
     font-size: 12px;
     line-height: 1.17;
     white-space: pre !important;
-    -webkit-text-size-adjust: 100%; 
+    word-break: keep-all !important; 
+    min-width: max-content !important; 
+    -webkit-text-size-adjust: none !important; 
     background-color: transparent;
     padding: 8px;
     margin: 0;
